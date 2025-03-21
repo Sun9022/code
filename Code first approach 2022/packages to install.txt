@@ -1,0 +1,6 @@
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.VisualSutdio.Web.CodeGeneration.Design
+System.ComponentModel.Annotations

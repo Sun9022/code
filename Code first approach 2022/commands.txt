@@ -1,0 +1,7 @@
+first Migration command (inside Tools > NuGet package manager > package manager console)
+
+PM> add-migration "New"
+
+second update database
+
+PM> update-database
